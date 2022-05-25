@@ -1,0 +1,5 @@
+/.vs/Examples/v17/*.suo
+**/bin/Debug/**
+**/bin/Release/**
+**/obj/**
+

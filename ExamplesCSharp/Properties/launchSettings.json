@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ExamplesCSharp": {
+      "commandName": "Project",
+      "commandLineArgs": "../../../../ .cs"
+    }
+  }
+}
